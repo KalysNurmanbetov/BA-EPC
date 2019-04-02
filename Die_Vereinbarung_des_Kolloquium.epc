@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:epc="org.bflow.toolbox.epc" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <epc:Epc xmi:id="_pQ3_oFUwEemS4MhY1yiZUA"/>
+  <notation:Diagram xmi:id="_pQ4msFUwEemS4MhY1yiZUA" type="Epc" element="_pQ3_oFUwEemS4MhY1yiZUA" name="Die_Vereinbarung_des_Kolloquium.epc" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_pQ4msVUwEemS4MhY1yiZUA" pageWidth="2700" pageHeight="6000" description="IGlobalColorSchema=o"/>
+  </notation:Diagram>
+</xmi:XMI>
