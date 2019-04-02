@@ -2,7 +2,7 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:epc="org.bflow.toolbox.epc" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
   <epc:Epc xmi:id="_V-1R0FRtEemS4MhY1yiZUA">
     <elements xmi:type="epc:ProcessInterface" xmi:id="_dKJsNVRxEemS4MhY1yiZUA" name="Bearbeitung der Bachelorarbeit" out="_23e7IFRzEemS4MhY1yiZUA"/>
-    <elements xmi:type="epc:Event" xmi:id="_1nBDsFRxEemS4MhY1yiZUA" name="Bachelorthema zu haben" in="_23e7IFRzEemS4MhY1yiZUA" out="_o4ctEFR2EemS4MhY1yiZUA"/>
+    <elements xmi:type="epc:Event" xmi:id="_1nBDsFRxEemS4MhY1yiZUA" name="den Betreuer und das Thema sind akzeptiert" in="_23e7IFRzEemS4MhY1yiZUA" out="_o4ctEFR2EemS4MhY1yiZUA"/>
     <elements xmi:type="epc:Function" xmi:id="_jYnHoFRzEemS4MhY1yiZUA" name="einen Termin mit dem Betreuer vereinbaren " in="_pSioEFR2EemS4MhY1yiZUA" out="_pFqUkFR0EemS4MhY1yiZUA"/>
     <elements xmi:type="epc:Function" xmi:id="_eeRfIFR0EemS4MhY1yiZUA" name="den Betreuer über Bachelorarbeit sich beraten" in="_pFqUkFR0EemS4MhY1yiZUA" out="_wnr7kFR0EemS4MhY1yiZUA"/>
     <elements xmi:type="epc:Event" xmi:id="_r2qckFR0EemS4MhY1yiZUA" name="das Feedback vom Betreur zu haben" in="_wnr7kFR0EemS4MhY1yiZUA" out="_6RJJIFR0EemS4MhY1yiZUA"/>

@@ -7,7 +7,7 @@
     <elements xmi:type="epc:Event" xmi:id="_c4NY0FU7EemS4MhY1yiZUA" name="die Einreichung ist akzeptiert" in="_vcp5gFU9Eem3satj8Y6gXA" out="_9JWk8FU7EemS4MhY1yiZUA"/>
     <elements xmi:type="epc:Function" xmi:id="_zpD6cFU7EemS4MhY1yiZUA" name="das Termin für Kolloqium vereinbaren" in="_9JWk8FU7EemS4MhY1yiZUA" out="_AIAucFU8EemS4MhY1yiZUA _Oolb8FU8EemS4MhY1yiZUA"/>
     <elements xmi:type="epc:Participant" xmi:id="_9l4I4FU7EemS4MhY1yiZUA" name="Prüfungsamt" in="_AIAucFU8EemS4MhY1yiZUA"/>
-    <elements xmi:type="epc:Event" xmi:id="_DM7Q8FU8EemS4MhY1yiZUA" name="das Termin für Kolloquium ist vereinbart" in="_Oolb8FU8EemS4MhY1yiZUA" out="_xk_UcFU8EemS4MhY1yiZUA"/>
+    <elements xmi:type="epc:Event" xmi:id="_DM7Q8FU8EemS4MhY1yiZUA" name="das Termin ist vereinbart" in="_Oolb8FU8EemS4MhY1yiZUA" out="_xk_UcFU8EemS4MhY1yiZUA"/>
     <elements xmi:type="epc:ProcessInterface" xmi:id="_judCcFU8EemS4MhY1yiZUA" name="Bewertung der Bachelorarbeit" in="_xk_UcFU8EemS4MhY1yiZUA"/>
     <elements xmi:type="epc:File" xmi:id="_wew2wFU9Eem3satj8Y6gXA" name="CD/DVD" out="_-9oUEFU9Eem3satj8Y6gXA"/>
     <elements xmi:type="epc:Document" xmi:id="_ysQpEFU9Eem3satj8Y6gXA" name="Aufdruck der Bachelorarbeit" out="_BHOd0FU-Eem3satj8Y6gXA"/>
