@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:epc="org.bflow.toolbox.epc" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
   <epc:Epc xmi:id="_FytK8FU9EemS4MhY1yiZUA">
-    <elements xmi:type="epc:ProcessInterface" xmi:id="_HRYIZlU9EemS4MhY1yiZUA" name="Bewertung der Bachelorarbeit" out="_N8Ok4FU_EemS4MhY1yiZUA"/>
+    <elements xmi:type="epc:ProcessInterface" xmi:id="_HRYIZlU9EemS4MhY1yiZUA" name="Die Vereinbarung des Kolloquium" out="_N8Ok4FU_EemS4MhY1yiZUA"/>
     <elements xmi:type="epc:Event" xmi:id="_Kkxg4FU_EemS4MhY1yiZUA" name="das Termin ist vereinbart" in="_N8Ok4FU_EemS4MhY1yiZUA" out="_cE1eUFU_EemS4MhY1yiZUA"/>
     <elements xmi:type="epc:Function" xmi:id="_Rc1k4FU_EemS4MhY1yiZUA" name="die Bachelorarbeit während des Kolloquiums präsentieren" in="_cE1eUFU_EemS4MhY1yiZUA" out="_f-78YFU_EemS4MhY1yiZUA"/>
     <elements xmi:type="epc:Function" xmi:id="_cn3S4FU_EemS4MhY1yiZUA" name="die Bachelorarbeit bewerten" in="_f-78YFU_EemS4MhY1yiZUA" out="_AuuzYFVAEemS4MhY1yiZUA _BAM94FVAEemS4MhY1yiZUA _GKFo0FVAEemS4MhY1yiZUA"/>
